@@ -6,8 +6,8 @@ function Header() {
     <header>
         <a href='/'><b>Celebal Technologies</b></a>
         <nav>
-            <a href="/about">About</a>
-            <a href="/contact-us">Contact Us</a>
+            <a href="/">About</a>
+            <a href="/">Contact Us</a>
         </nav>
     </header>
     </>
